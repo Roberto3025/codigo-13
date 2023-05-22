@@ -1,0 +1,46 @@
+**************************
+* Comandos Basicos Linux *
+**************************
+* clear							======> 	 Limpia la consola de cdm
+* mkdir							======>	 Crear una nueva carpeta
+* cd nombre-carpeta / cd ..		======>	 Sirve para avanzar a una carpeta / sirve para retroceder
+* ls -a							======> 	 Muestra todos los archivos hasta los ocultos 
+* start .						======>	 Abrir carpetas en windows
+
+* para salir del cmd cuando te apare la colita de chancho 		======>	 Presionas esc + wq
+
+*********************************
+* Comandos Git de configuracion *
+*********************************
+* git config --list 										======>	 Para saber si nuestras credenciales estan configuradas en la pc
+* git config --global user.name "Roberto3025"				======>	 Para setear o vincular el usuario de git
+* git config --global user.email "navarro449@gmail.com"		======>	 Para setear o vincular el correo de git
+* git log													======>	 Para ver el historial de mis commits
+
+***************************************
+* Comandos Git de configuracion Local *
+***************************************
+* git init									======>  Sirve para iniciar un proyecto con git, esto solos e hace la primera vez que iniciemos el proyecto, creara una carpeta oculta llamada .git
+													 Master o Main = es la rama principal de trabajo
+* git add .									======>	 Sirve para agregar los cambrios en la memoria local de git ( . = hace referencia a aqui - all)
+* git status								======>	 Te permite visualizar los cambios en la memoria local verde guardado / rojo = aun no subidos
+* git commit -m "Creacion de Manual Git"	======>	 Crea un punto de cambio (commit) / m = message
+* git branch -m main						======>	 Sirve para cambiar de rama / anterior mente se llama master, pero ahora es main
+
+****************************************
+* Comandos Git de configuracion Remota *
+****************************************
+* git remote add origin https://github.com/Roberto3025/Web.git	======>	Vincula nuestra carpeta local con github
+* git push origin main											======>	sube los cambios de la pc a github
+
+
+error: failed to push some refs to 'https://github.com/Roberto3025/Web.git'		======> Utilizar comomando - git pull --rebase origin main
+															  git reset
+
+************************************************************
+* Token password: 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 *
+************************************************************
+
+****************************
+* Credenciales - Lima3025* *
+****************************

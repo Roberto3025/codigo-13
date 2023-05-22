@@ -1,0 +1,10 @@
+***************************************
+* Estensiones para Visual Studio Code *
+***************************************
+
+Andromeda 		===> Es un tema que le da una mejor apariencia a nuestro codigo
+error lens		===> Ayuda a identidicar errores en el codigo
+live server		===> Trabajar con una app de html en forma real, se refleca automaticamente el cambio en el navegador
+git graph		===> Se utiliza para visualizar los cambios en git
+Intellisense	===> Es un Intellisense, que ayuda a autocompletar el codigo o sugerir el codigo
+Htlm Snippets	===> Es un Intellisense, que ayuda a autocompletar el codigo o sugerir el codigo
